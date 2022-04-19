@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(235, 236, 165);
+}
+
+.button{
+    background-color: #FFF685;
+    font-size: 20px;
+}
+
+h1 {
+    color: crimson;
+    font-size: 50px;
+}
